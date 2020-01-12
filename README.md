@@ -29,3 +29,9 @@ Step 6: Create tables using appropriate SQL command. Make sure to include primar
 
 Step 7: PL/SQL: Define two meaningful stored procedures and two triggers.
 
+
+Contribution:
+Defined the data requirements of the website.
+Designed the Entity Relationship Diagram for the Amazon Database.
+Mapped the ER diagram into relational schema.
+Defined the stored procedures and triggers for the database.
