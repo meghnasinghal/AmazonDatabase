@@ -31,7 +31,10 @@ Step 7: PL/SQL: Define two meaningful stored procedures and two triggers.
 
 
 Contribution:
-Defined the data requirements of the website.
-Designed the Entity Relationship Diagram for the Amazon Database.
-Mapped the ER diagram into relational schema.
-Defined the stored procedures and triggers for the database.
+1. Defined the data requirements of the website.
+
+2. Designed the Entity Relationship Diagram for the Amazon Database.
+
+3. Mapped the ER diagram into relational schema.
+
+4. Defined the stored procedures and triggers for the database.
